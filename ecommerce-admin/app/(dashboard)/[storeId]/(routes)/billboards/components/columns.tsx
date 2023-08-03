@@ -16,7 +16,7 @@ export const columns: ColumnDef<BillboardColumn>[] = [
 		header: 'Label',
 	},
 	{
-		accessorKey: 'craetedAt',
+		accessorKey: 'createdAt',
 		header: 'Date',
 	},
 	{
